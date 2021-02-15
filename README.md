@@ -17,9 +17,12 @@ The added [requirements file](requirements.txt) contains all libraries and depen
 
 
 At the end of this repo you should:
-*
-*
+* Have an understanding of linear regression for explanatory analysis
+* Know how to use the statsmodel library for OLS
+* Understanding of usage and limitations of linear regression
 
 This repo covers:
-*
-*
+* OLS - univariate
+* OLS - multivariate
+* Limitations of Linear Regression
+* Interacting with Categorical Variables
