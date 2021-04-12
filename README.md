@@ -1,25 +1,15 @@
 # Linear Regression
 
-In this Repository you can find Jupyter Notebooks that you should work on together as Pair-Programmers.
+In this Repository you can find Jupyter Notebooks on Linear Regression Models that you should work on together as Pair-Programmers.
 
-Please make sure you have forked the repo and set up a new virtual environment.
-
-For this purpose you use following commands:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-The added [requirements file](requirements.txt) contains all libraries and dependencies we need to execute the linear regression notebooks.
-
-
+## Objective 
 At the end of this repo you should:
 * Have an understanding of linear regression for explanatory analysis
 * Know how to use the statsmodel library for OLS
 * Understanding of usage and limitations of linear regression
+
+## Task
+Please make sure you have **forked** the repo and activate your nf_base environment.
 
 This repo covers:
 * OLS - univariate
