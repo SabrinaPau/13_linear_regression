@@ -9,7 +9,7 @@ At the end of this repo you should:
 * Understanding of usage and limitations of linear regression
 
 ## Task
-Please make sure you have **forked** the repo and activate your nf_base environment.
+Please make sure you have **forked** the repo and activated your nf_base environment.
 
 This repo covers:
 * OLS - univariate
