@@ -9,7 +9,7 @@ At the end of this repo you should:
 * Understand the usage of linear regression
 * Know how to interpret the output of a Linear Regression model 
 ## Task
-Please make sure you have **forked** the repo and activated your nf_base environment.
+Please make sure you have **forked** the repo and activated your eda_env environment.
 
 This repo covers:
 * Simple Linear Regression + exercises
